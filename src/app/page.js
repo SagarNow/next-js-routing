@@ -11,12 +11,12 @@ const Page = () => {
         Routing in <span className="text-pink-600">Next.js</span>
       </h1>
 
-      {/* Big "sagar" text */}
+    
       <h2 className="text-[200px] font-extrabold text-white opacity-20 select-none -mt-10">
         sagar
       </h2>
 
-      {/* Example Routing Buttons */}
+     
       <div className="mt-8 flex gap-4">
         <Link href="/about">
           <button className="px-6 py-2 rounded-lg bg-purple-600 text-white hover:bg-purple-500 shadow-md">
